@@ -2,6 +2,6 @@
 
 Mi Primer Repositorio
 
-Mi primera contribucion local par GitHub
+Mi primera contribucion local para GitHub
 
 Modificado deste GitHub
