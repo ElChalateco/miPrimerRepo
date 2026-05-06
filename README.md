@@ -6,4 +6,4 @@ Mi primera contribucion local para GitHub
 
 Modificado deste GitHub
 
-Una nueva modificacion para aprnder fetch
+Una nueva modificacion para aprender fetch
