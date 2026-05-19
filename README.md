@@ -115,9 +115,6 @@ Actualmente estoy fortaleciendo mis habilidades en el **ecosistema JavaScript mo
 
 Cuando no estoy diseñando o programando, probablemente estoy **tomando café mientras pienso en nuevas ideas para proyectos web** ☕
 
-### :zap: Actividad reciente
-<!--START\_SECTION:activity-->
-<!--END\_SECTION:activity-->
-
-<!--RECENT\_ACTIVITY:start-->
-<!--RECENT\_ACTIVITY:last\_update-->
+### ⚡ Recent Activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update--> 
