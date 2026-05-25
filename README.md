@@ -117,14 +117,14 @@ Cuando no estoy diseñando o programando, probablemente estoy **tomando café mi
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ElChalateco/miCuartoRepo/pull/1) in [ElChalateco/miCuartoRepo](https://github.com/ElChalateco/miCuartoRepo)
-2. 💪 Opened PR [#1](https://github.com/ElChalateco/miCuartoRepo/pull/1) in [ElChalateco/miCuartoRepo](https://github.com/ElChalateco/miCuartoRepo)
-3. 🔒 Closed issue [#6](https://github.com/ElChalateco/miPrimerRepo/issues/6) in [ElChalateco/miPrimerRepo](https://github.com/ElChalateco/miPrimerRepo)
-4. 🎉 Merged PR [#7](https://github.com/ElChalateco/miPrimerRepo/pull/7) in [ElChalateco/miPrimerRepo](https://github.com/ElChalateco/miPrimerRepo)
-5. 💪 Opened PR [#7](https://github.com/ElChalateco/miPrimerRepo/pull/7) in [ElChalateco/miPrimerRepo](https://github.com/ElChalateco/miPrimerRepo)
-6. 🎉 Merged PR [#5](https://github.com/ElChalateco/miPrimerRepo/pull/5) in [ElChalateco/miPrimerRepo](https://github.com/ElChalateco/miPrimerRepo)
-7. ❗ Opened issue [#6](https://github.com/ElChalateco/miPrimerRepo/issues/6) in [ElChalateco/miPrimerRepo](https://github.com/ElChalateco/miPrimerRepo)
-8. 🔒 Closed issue [#4](https://github.com/ElChalateco/miPrimerRepo/issues/4) in [ElChalateco/miPrimerRepo](https://github.com/ElChalateco/miPrimerRepo)
-9. 💪 Opened PR [#5](https://github.com/ElChalateco/miPrimerRepo/pull/5) in [ElChalateco/miPrimerRepo](https://github.com/ElChalateco/miPrimerRepo)
-10. ❗ Opened issue [#4](https://github.com/ElChalateco/miPrimerRepo/issues/4) in [ElChalateco/miPrimerRepo](https://github.com/ElChalateco/miPrimerRepo)
+1. 🚀 Published release [v0.1.0](https://github.com/ElChalateco/miQuintoRepo/releases/tag/v0.1.0) in [ElChalateco/miQuintoRepo](https://github.com/ElChalateco/miQuintoRepo)
+2. 🎉 Merged PR [#1](https://github.com/ElChalateco/miCuartoRepo/pull/1) in [ElChalateco/miCuartoRepo](https://github.com/ElChalateco/miCuartoRepo)
+3. 💪 Opened PR [#1](https://github.com/ElChalateco/miCuartoRepo/pull/1) in [ElChalateco/miCuartoRepo](https://github.com/ElChalateco/miCuartoRepo)
+4. 🔒 Closed issue [#6](https://github.com/ElChalateco/miPrimerRepo/issues/6) in [ElChalateco/miPrimerRepo](https://github.com/ElChalateco/miPrimerRepo)
+5. 🎉 Merged PR [#7](https://github.com/ElChalateco/miPrimerRepo/pull/7) in [ElChalateco/miPrimerRepo](https://github.com/ElChalateco/miPrimerRepo)
+6. 💪 Opened PR [#7](https://github.com/ElChalateco/miPrimerRepo/pull/7) in [ElChalateco/miPrimerRepo](https://github.com/ElChalateco/miPrimerRepo)
+7. 🎉 Merged PR [#5](https://github.com/ElChalateco/miPrimerRepo/pull/5) in [ElChalateco/miPrimerRepo](https://github.com/ElChalateco/miPrimerRepo)
+8. ❗ Opened issue [#6](https://github.com/ElChalateco/miPrimerRepo/issues/6) in [ElChalateco/miPrimerRepo](https://github.com/ElChalateco/miPrimerRepo)
+9. 🔒 Closed issue [#4](https://github.com/ElChalateco/miPrimerRepo/issues/4) in [ElChalateco/miPrimerRepo](https://github.com/ElChalateco/miPrimerRepo)
+10. 💪 Opened PR [#5](https://github.com/ElChalateco/miPrimerRepo/pull/5) in [ElChalateco/miPrimerRepo](https://github.com/ElChalateco/miPrimerRepo)
 <!--END_SECTION:activity-->
